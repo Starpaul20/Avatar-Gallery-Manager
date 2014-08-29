@@ -1,3 +1,5 @@
+DEPRECATED! Please use Avatar Gallery plugin for MyBB 1.8.
+
 ## INFORMATION ##
 
 Avatar Gallery Manager (1.0) for MyBB 1.6
